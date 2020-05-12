@@ -103,7 +103,6 @@ export default class extends React.PureComponent {
                         ...style,
                         display: display
                     }}
-                    onClick={this.handleCopy}
                 >
                     {this.getClippyIcon()}
                 </span>
