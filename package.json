@@ -1,8 +1,8 @@
 {
-    "name": "react-json-view",
+    "name": "react-json-view-patch-1",
     "description":
         "Interactive react component for displaying javascript arrays and JSON objects.",
-    "version": "1.19.1",
+    "version": "1.19.2",
     "main": "dist/main.js",
     "dependencies": {
         "flux": "^3.1.3",
